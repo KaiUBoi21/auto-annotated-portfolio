@@ -16,7 +16,13 @@ sections:
     title: >-
       I’m a student,Athlete,Developer,and a bunch of other impressive titles and
       buzz words.
-    subtitle: ''
+    subtitle: >-
+      Hello! My name is Kai Liu and I am a student - athlete at Basis Cedar
+      Park. My interests are biomedical engineering as-well computer
+      programming. I am heavily involved in activities such as Science Olympiad
+      and Swimming year around. I am high level swimming athlete at Waterloo
+      Swimming with a enormous amount of dedication. I am also part of various
+      tutoring and volunteering programs.
     styles:
       self:
         height: auto
